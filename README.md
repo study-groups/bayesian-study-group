@@ -10,11 +10,5 @@ A collection of Bayesian inspired concepts.
 - [Learning Bayesian Statistics Podcast](https://www.stitcher.com/show/learning-bayesian-statistics): A very well produced podcast interviewing big thinkers in Bayesian statistics by Alexandre Andorra.
 
 - [Statistical Thinking](https://www.fharrell.com/):  Frank Harrell is a Professor of Biostatistics in the School of Medicine at Vanderbilt University. This blog is devoted to statistical thinking and its impact on science and everyday life.
-- 
-- [Bayesian modeling of time series From Introduction to biological time series data](https://www.uio.no/studier/emner/matnat/ibv/BIO4040/h03/undervisningsmateriale/Lectures/lecture10.pdf) by Kyrre Lekve from Department of Biology, University of Oslo. Masterpiece of a lecture. Covers: 
-  - Frequentist v. Bayesian chart
-  - Shows Bayes rule leads to posterior-from-prior interpretaion
-  - State-Space formulation of updating rules via Kalman filtering
-  - Simple linear regression rexample
-  - See also: [State-space representation of time-series data](https://hackmd.io/@mricos/HJdJrDdnu#/)
 
+- [Bayesian modeling of time series From Introduction to biological time series data](https://www.uio.no/studier/emner/matnat/ibv/BIO4040/h03/undervisningsmateriale/Lectures/lecture10.pdf) by Kyrre Lekve from Department of Biology, University of Oslo. Masterpiece of a lecture. See also: [State-space representation of time-series data](https://hackmd.io/@mricos/HJdJrDdnu#/)
