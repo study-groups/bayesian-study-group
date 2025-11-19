@@ -62,4 +62,4 @@ which treats probability as the measure of likelihood after attempting a large n
 
 - [Modeling Emotions Associated With Novelty at Variable Uncertainty Levels: A Bayesian Approach](https://www.frontiersin.org/articles/10.3389/fncom.2019.00002/full) by Hideyoshi Yanagisawa.  Good, simple example of using Bayesian statistics to model human behaviour based on prior beliefs about states of excitement before (prior distribution), during (ikelihood) and after the event (posterior distribution).
 
-- [Bayesian modeling of time series From Introduction to biological time series data](https://www.uio.no/studier/emner/matnat/ibv/BIO4040/h03/undervisningsmateriale/Lectures/lecture10.pdf) by Kyrre Lekve from Department of Biology, University of Oslo. Masterpiece of a lecture. See also: [State-space representation of time-series data](https://hackmd.io/@mricos/HJdJrDdnu#/).
+- [Bayesian modeling of time series From Introduction to biological time series data](./lecture10.pdf) by Kyrre Lekve from Department of Biology, University of Oslo. Masterpiece of a lecture. See also: [State-space representation of time-series data](https://hackmd.io/@mricos/HJdJrDdnu#/).
